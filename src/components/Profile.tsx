@@ -367,7 +367,7 @@ const Profile: React.FC<ProfileProps> = ({ userId, onBack }) => {
   const getGradeDescription = (grade: string) => {
     switch (grade) {
       case 'Admin':
-        return 'Full system access with management privileges';
+        return 'FULL ACCES';
       case 'Support':
         return 'Bug management access with V4 download permissions';
       case 'V5':
