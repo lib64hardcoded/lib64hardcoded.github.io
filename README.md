@@ -1,6 +1,6 @@
 # Prodomo Server Dashboard
 
-A comprehensive server management dashboard built with React, TypeScript, and Tailwind CSS. Supports both Supabase and localStorage for flexible deployment options.
+A comprehensive server management dashboard built with React, TypeScript, and Tailwind CSS.
 
 ## Features
 
