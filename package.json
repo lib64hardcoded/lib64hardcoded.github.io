@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lib64hardcoded.github.io/lib64hardcoded"
+  "homepage": "https://lib64hardcoded.github.io/lib64hardcoded",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
