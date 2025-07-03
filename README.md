@@ -27,9 +27,6 @@ src/
 │   ├── security.ts     # Security and rate limiting
 │   └── ipProtection.ts # IP protection system
 └── main.tsx           # Application entry point
-
-supabase/
-└── migrations/        # SQL migration files for Supabase
 ```
 
 ## Features Overview
